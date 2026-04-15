@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Taha
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Information+Systems+Student;Software+Developer;Always+Learning&center=true&width=500&height=50">
-🎓 Engineering Student in Information Systems**
-💻 Focused on Software Development**
-🚀 Passionate about building efficient and scalable solutions**
+
+🎓 Engineering Student in Information Systems
+💻 Focused on Software Development
+🚀 Passionate about building efficient and scalable solutions
 
 ---
 
