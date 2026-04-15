@@ -1,4 +1,7 @@
 ## Hi there 👋
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!--
 **taha-mez42/taha-mez42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
