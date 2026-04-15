@@ -6,7 +6,7 @@
 
 ---
 
-## ✨ About Me
+##  About Me
 
 * 🎓 I’m currently studying **Information Systems Engineering**
 * 💻 I specialize in **software development and problem-solving**
