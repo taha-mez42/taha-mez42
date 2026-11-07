@@ -1,0 +1,30 @@
+name: Update Tulkun
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  tulkun:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Tulkun GIF and PNG
+        uses: PramudithaN/git-tulkun@v1
+        with:
+          login: taha-mez42
+          view: side
+          output-dir: tulkun
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tulkun/
+          git diff --cached --quiet || git commit -m "chore: update Tulkun"
+          git push
