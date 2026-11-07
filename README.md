@@ -80,8 +80,17 @@ const taha = {
 
 </div>
 
+---
 
+## 🐋 My Tulkun
 
+<p align="center">
+  <img src="tulkun/tulkun.gif" width="640" alt="Pixel-art Tulkun that grows with my GitHub contributions"/>
+  <br/>
+  <sub>Generated daily from my GitHub contributions and languages with <a href="https://github.com/PramudithaN/git-tulkun">git-tulkun</a></sub>
+</p>
+
+---
 
 ## 🎯 Currently
 
