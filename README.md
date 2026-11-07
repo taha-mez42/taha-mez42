@@ -82,20 +82,6 @@ const taha = {
 
 
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taha-mez42&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taha-mez42&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=taha-mez42&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taha-mez42&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
-
-</div>
-
----
 
 ## 🎯 Currently
 
