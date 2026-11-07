@@ -80,35 +80,7 @@ const taha = {
 
 </div>
 
----
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/taha-mez42/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taha-mez42&repo=REPO-1&theme=tokyonight&hide_border=true" alt="Project 1"/>
-</a>
-<a href="https://github.com/taha-mez42/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taha-mez42&repo=REPO-2&theme=tokyonight&hide_border=true" alt="Project 2"/>
-</a>
-<a href="https://github.com/taha-mez42/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taha-mez42&repo=REPO-3&theme=tokyonight&hide_border=true" alt="Project 3"/>
-</a>
-<a href="https://github.com/taha-mez42/REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taha-mez42&repo=REPO-4&theme=tokyonight&hide_border=true" alt="Project 4"/>
-</a>
-
-</div>
-
-| Project | What it does | Tech |
-|:--|:--|:--|
-| **[Project One](https://github.com/taha-mez42/REPO-1)** | One sentence on the problem it solves and the result. | `Java` `SQL` |
-| **[Project Two](https://github.com/taha-mez42/REPO-2)** | One sentence on the problem it solves and the result. | `Python` |
-| **[Project Three](https://github.com/taha-mez42/REPO-3)** | One sentence on the problem it solves and the result. | `JavaScript` `React` |
-| **[Project Four](https://github.com/taha-mez42/REPO-4)** | One sentence on the problem it solves and the result. | `HTML` `CSS` |
-
----
 
 ## 📊 GitHub Analytics
 
